@@ -12,7 +12,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -48,15 +47,6 @@ Its a JavaScript project, creating a Leaderboard list app, using webpack and ES6
 ### Key Features <a name="key-features"></a>
 
 - Add scores to a board using an API
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-The project is currently not deployed, a link will be available after deployment.
-- [Live Demo Link](https://sivemdluli.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,13 +110,15 @@ If you like this project just give me a star ⭐️!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- **How soon are new features coming out?**
-
-  - There's currently no scheduled release date.
+<!-- - **How soon are new features coming out?** -->
+- There's currently no scheduled release date.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Acknowledgements <a name="acknowledgements"></a>
+
+ - My Mentor
+ - Microverse Team
 
 ## 📝 License <a name="license"></a>
 
