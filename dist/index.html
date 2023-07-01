@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wbpack Exercise</title>
+    <title>Leaderboard</title>
 <script defer src="runtime.js"></script><script defer src="main.js"></script></head>
 
 <body>
@@ -16,27 +16,9 @@
             <div class="rc-header">
                 <h2>Recent scores <input class="button" type="submit" value="Refresh"></h2>
             </div>
-            <table class="border">
+            <table class="table border">
                 <tr>
-                    <td>Name: 100</td>
-                </tr>
-                <tr>
-                    <td>Name: 20</td>
-                </tr>
-                <tr>
-                    <td>Name: 50</td>
-                </tr>
-                <tr>
-                    <td>Name: 78</td>
-                </tr>
-                <tr>
-                    <td>Name: 125</td>
-                </tr>
-                <tr>
-                    <td>Name: 77</td>
-                </tr>
-                <tr>
-                    <td>Name: 42</td>
+                    <td>No scores available</td>
                 </tr>
             </table>
         </div>
@@ -47,15 +29,13 @@
             </div>
             <form action="/" class="score-form">
                 <input type="text" id="user_name" class="border" name="name" placeholder="Your name"><br>
-
                 <input type="text" id="user_score" class="border" name="score" placeholder="Your score"><br><br>
-
                 <input class="button submit-b" type="submit" value="Submit">
             </form>
         </div>
     </main>
 
-    <script src="/src/index.html"></script>
+    <script src="/src/index.js"></script>
 </body>
 
 </html>
